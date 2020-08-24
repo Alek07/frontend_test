@@ -1,0 +1,29 @@
+.reservation_list_accordion {
+    width: 50vw;
+}
+
+.reservation_list_accordion:focus {
+    box-shadow: none;
+    text-decoration: none;
+}
+
+.reservation_list_title {
+    align-self: flex-start;
+}
+
+.reservation_list_space {
+    flex-grow: 3;
+}
+
+.reservation_list_total {
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+
+.reservation_list_button_row {
+    justify-content: flex-end;
+}
+
+.reservation_list_button_row .btn {
+    margin-right: 0.5rem;
+}

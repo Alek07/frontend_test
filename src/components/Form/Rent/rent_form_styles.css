@@ -1,0 +1,4 @@
+.rent_form_group_col {
+    display: flex;
+    flex-direction: column;
+}

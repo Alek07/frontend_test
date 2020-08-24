@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "company": "Honda",
+        "model": "Civic",
+        "image": "https://s.aolcdn.com/commerce/autodata/images/USC90HOC021A121001.jpg",
+        "amount": 2,
+        "rent_price": 300,
+        "insurances": 65
+    },
+    {
+        "id": 2,
+        "company": "Honda",
+        "model": "Fit",
+        "image": "https://www.motortrend.com/uploads/sites/10/2018/07/2019-honda-fit-ex-5door-hatchback-angular-front.png?fit=around%7C875:492.1875",
+        "amount": 2,
+        "rent_price": 250,
+        "insurances": 50
+    },
+    {
+        "id": 3,
+        "company": "Honda",
+        "model": "CR-V",
+        "image": "https://images.dealer.com/ddc/vehicles/2020/Honda/CR-V/SUV/trim_EX_a729a1/color/Platinum%20White%20Pearl-WY-224%2C221%2C212-640-en_US.jpg",
+        "amount": 2,
+        "rent_price": 300,
+        "insurances": 65
+    },
+    {
+        "id": 4,
+        "company": "Honda",
+        "model": "Accord",
+        "image": "https://www.hondaofhollywood.com/assets/stock/colormatched_01/white/640/cc_2020hoc01_01_640/cc_2020hoc010047_01_640_wx.jpg?height=400",
+        "amount": 2,
+        "rent_price": 450,
+        "insurances": 70
+    },
+    {
+        "id": 5,
+        "company": "Honda",
+        "model": "Insight",
+        "image": "https://postmediadriving.files.wordpress.com/2019/06/chrome-image-401020.png?w=800&h=520&crop=1",
+        "amount": 2,
+        "rent_price": 600,
+        "insurances": 100
+    },
+    {
+        "id": 6,
+        "company": "Hyundai",
+        "model": "Santa Fe",
+        "image": "https://m.media-amazon.com/images/I/71w0Lnv7gXL._UY560_.jpg",
+        "amount": 2,
+        "rent_price": 300,
+        "insurances": 50
+    },
+    {
+        "id": 7,
+        "company": "Hyundai",
+        "model": "Tucson",
+        "image": "https://m.media-amazon.com/images/I/81wiwq8j0CL.jpg",
+        "amount": 2,
+        "rent_price": 300,
+        "insurances": 50
+    },
+    {
+        "id": 8,
+        "company": "Hyundai",
+        "model": "i30",
+        "image": "https://automobile-assets.s3.amazonaws.com/automobile/body/hyundai-i30-2017-2021-1581923306.86.jpg",
+        "amount": 2,
+        "rent_price": 250,
+        "insurances": 30
+    },
+    {
+        "id": 9,
+        "company": "Hyundai",
+        "model": "Elantra",
+        "image": "https://www.priorityauto.com/assets/stock/colormatched_01/white/640/cc_2017hyc020002_01_640/cc_2017hyc020002_01_640_rw5.jpg?height=400",
+        "amount": 2,
+        "rent_price": 450,
+        "insurances": 80
+    },
+    {
+        "id": 10,
+        "company": "Hyundai",
+        "model": "Accent",
+        "image": "https://images.dealer.com/ddc/vehicles/2020/Hyundai/Accent/Sedan/trim_SEL_ea0851/color/Olympus%20Silver-4SS-202%2C202%2C202-640-en_US.jpg",
+        "amount": 2,
+        "rent_price": 450,
+        "insurances": 80
+    }
+]

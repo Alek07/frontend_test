@@ -1,0 +1,9 @@
+.display_form_group_col {
+    display: flex;
+    flex-direction: column;
+}
+
+.display_form_label {
+    font-size: 1.4rem;
+    font-weight: bold;
+}

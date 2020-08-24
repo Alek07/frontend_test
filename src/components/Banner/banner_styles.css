@@ -1,0 +1,9 @@
+.form_title {
+    font-size: 2rem;
+}
+
+.banner_image_col {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
